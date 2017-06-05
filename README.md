@@ -1,3 +1,3 @@
-# mysql
+# 数据库(data base)
 
-- 可视化工具 navicat
+- mysql可视化工具 navicat
